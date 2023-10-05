@@ -1,0 +1,54 @@
+D:\books\3 курс МиАКГ\Lab8\bin\Debug\Lab7.exe.config
+D:\books\3 курс МиАКГ\Lab8\bin\Debug\Lab7.exe
+D:\books\3 курс МиАКГ\Lab8\bin\Debug\Lab7.pdb
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab7.Form1.resources
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab7.Properties.Resources.resources
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab7.exe
+D:\books\3 курс МиАКГ\Lab8\obj\Debug\Lab7.pdb
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.exe.config
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.exe
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.pdb
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.Form1.resources
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.exe
+C:\Users\uporo\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.pdb
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\bin\Debug\Lab7.exe.config
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\bin\Debug\Lab7.exe
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\bin\Debug\Lab7.pdb
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab7.Form1.resources
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab7.exe
+C:\Users\uporo\OneDrive\Рабочий стол\New folder (3)\Lab8\obj\Debug\Lab7.pdb
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.exe.config
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.exe
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\bin\Debug\Lab7.pdb
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.Form1.resources
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.exe
+C:\Users\Maria\OneDrive\Рабочий стол\Lab8\obj\Debug\Lab7.pdb
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab7.Form1.resources
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab7.exe
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\obj\Debug\Lab7.pdb
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\bin\Debug\Lab7.exe.config
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\bin\Debug\Lab7.exe
+C:\Users\Maria\OneDrive\Рабочий стол\3 курс 6 сем\МАКГ\Lab8\bin\Debug\Lab7.pdb

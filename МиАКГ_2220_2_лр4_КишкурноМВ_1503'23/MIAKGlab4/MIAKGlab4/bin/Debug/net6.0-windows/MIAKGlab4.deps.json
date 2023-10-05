@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MIAKGlab4/1.0.0": {
+        "dependencies": {
+          "SolidWorks.Interop.sldworks": "29.5.1.1",
+          "SolidWorks.Interop.swconst": "29.5.1.1"
+        },
+        "runtime": {
+          "MIAKGlab4.dll": {}
+        }
+      },
+      "SolidWorks.Interop.sldworks/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.sldworks.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swconst/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swconst.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MIAKGlab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sldworks/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swconst/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Maria\source\repos\SolidLab5\bin\Debug\SolidLab5.exe.config
+C:\Users\Maria\source\repos\SolidLab5\bin\Debug\SolidLab5.exe
+C:\Users\Maria\source\repos\SolidLab5\bin\Debug\SolidLab5.pdb
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.Form1.resources
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.Properties.Resources.resources
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.exe
+C:\Users\Maria\source\repos\SolidLab5\obj\Debug\SolidLab5.pdb
